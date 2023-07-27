@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.movies{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.movie-box{
+    height: 250px;
+    width: 13%;
+    margin: 5px;
+}
+.movie-box img{
+    height: 80%;
+    width: 100%;
+}
